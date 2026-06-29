@@ -4,7 +4,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2606.15883-b31b1b)](https://arxiv.org/abs/2606.15883)
 [![Subjects](https://img.shields.io/badge/cs.CL-cs.AI-7C3AED)](https://arxiv.org/abs/2606.15883)
-[![Hugging Face Model](https://img.shields.io/badge/🤗-Model-FFD21E)](https://huggingface.co/)
+[![Hugging Face Model](https://img.shields.io/badge/🤗-Model-FFD21E)]([https://huggingface.co/](https://huggingface.co/Omarrran/koshur-diacritizer-byt5-small/tree/main))
 [![Press: ETV Bharat](https://img.shields.io/badge/Press-ETV_Bharat-EF4444)](https://www.etvbharat.com/en/state/three-kashmir-engineers-develop-ai-tool-to-preserve-native-langauge-in-digital-age-enn26061905638)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue)](LICENSE)
 
