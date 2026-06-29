@@ -159,9 +159,10 @@ Documented failure categories (`docs/error-analysis.md`):
 
 ## Authors
 
+- **Faizan Iqbal** · [herewithfaizan.in](https://herewithfaizan.in) · [ifaizan041@gmail.com](mailto:ifaizan041@gmail.com)
 - **Haq Nawaz Malik**
 - **Nahfid Nissar**
-- **Faizan Iqbal** · [herewithfaizan.in](https://herewithfaizan.in) · [ifaizan041@gmail.com](mailto:ifaizan041@gmail.com)
+
 
 ## License
 
